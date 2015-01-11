@@ -44,8 +44,8 @@ THEME = '../themes/foundation-default-colours'
 # THEME = 'themes/simple-bootstrap'
 
 STATIC_PATHS = [
-    'extra/CNAME',
+    'content/extra/CNAME',
     ]
 EXTRA_PATH_METADATA = {
-    'extra/CNAME': {'path': 'CNAME'},
+    'content/extra/CNAME': {'path': 'CNAME'},
     }
