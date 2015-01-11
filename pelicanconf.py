@@ -38,7 +38,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Theme
 # THEME = 'themes/built-texts'
-THEME = 'themes/foundation-default-colours'
+THEME = '../themes/foundation-default-colours'
 # THEME = 'themes/gum'
 # THEME = 'themes/pelican-bootstrap3'
 # THEME = 'themes/simple-bootstrap'
