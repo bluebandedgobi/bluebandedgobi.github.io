@@ -42,3 +42,10 @@ THEME = '../themes/foundation-default-colours'
 # THEME = 'themes/gum'
 # THEME = 'themes/pelican-bootstrap3'
 # THEME = 'themes/simple-bootstrap'
+
+STATIC_PATHS = [
+    'extra/CNAME',
+    ]
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+    }
